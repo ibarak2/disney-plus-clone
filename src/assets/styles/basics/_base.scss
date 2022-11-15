@@ -1,0 +1,41 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #040714;
+  color: #f9f9f9;
+
+  font-family: Avenir-Roman, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
+
+p {
+  margin: 0 0 1em;
+}
+
+a {
+  text-decoration: none;
+  color: #f9f9f9;
+}
