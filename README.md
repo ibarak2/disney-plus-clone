@@ -2,8 +2,10 @@
 
 Stylish and fully mobile responssive Disney+ Clone project
 <br>
-<br>
+
 <h3>clone the project and run "npm start" will automatically open the website in your default browser </h3>
+ 
+<br>
 
 ## About The Project
 
