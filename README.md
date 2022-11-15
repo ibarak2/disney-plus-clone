@@ -1,10 +1,25 @@
 # Disney+ Clone
 
-Stylish Disney+ Clone project
+Stylish and fully mobile responssive Disney+ Clone project
+<br>
+
+<h3>clone the project and run "npm start" will automatically open the website in your default browser </h3>
+ 
+<br>
 
 ## About The Project
 
-This is a nice Disney+ clone project, using React + Redux, Firebase authentication and database, React Router and styled-components .
+This is a nice Disney+ clone project, using React + Redux, Firebase google-authentication and database, React Router and styled-components techs.
+
+<br>
+
+![desktop 1](https://res.cloudinary.com/ibarak/image/upload/v1668495616/disney-plus-clone/sa3zfutvua4kb4lgjkot.jpg)
+![desktop 2](https://res.cloudinary.com/ibarak/image/upload/v1668495848/disney-plus-clone/sgxpt087amljnhftwb0u.jpg)
+![desktop 3](https://res.cloudinary.com/ibarak/image/upload/v1668495616/disney-plus-clone/n2va0mms8ekjfwhspfo0.jpg)
+![mobile 1](https://res.cloudinary.com/ibarak/image/upload/v1668495616/disney-plus-clone/edvmwapq9gbnds1cmelo.jpg)
+![mobile 2](https://res.cloudinary.com/ibarak/image/upload/v1668495615/disney-plus-clone/wl7rqiwnx7n7acqh2r24.jpg)
+![mobile 3](https://res.cloudinary.com/ibarak/image/upload/v1668495615/disney-plus-clone/qhdakgucbrokeiqykkwz.jpg)
+
 
 ## Contact
 
