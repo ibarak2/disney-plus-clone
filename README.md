@@ -1,6 +1,7 @@
 # Disney+ Clone
 
 Stylish Disney+ Clone project
+<br>
 "npm start" will automatically open the website in your default browser
 
 ## About The Project
