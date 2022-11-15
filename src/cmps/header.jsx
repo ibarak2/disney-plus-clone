@@ -16,7 +16,6 @@ export const Header = () => {
         } else {
             navigate('/home')
         }
-        console.log(loggedinUser);
     }, [loggedinUser])
 
 

@@ -10,7 +10,6 @@ export const DetailsPage = () => {
     const params = useParams()
     const dispatch = useDispatch()
     const movie = useSelector(state => state.movieModule.movie)
-    console.log(movie);
 
     useEffect(() => {
         const id = params.id
