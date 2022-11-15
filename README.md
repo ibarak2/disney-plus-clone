@@ -9,7 +9,7 @@ Stylish and fully mobile responssive Disney+ Clone project
 
 ## About The Project
 
-This is a nice Disney+ clone project, using React + Redux, Firebase google-authentication and database, React Router and styled-components .
+This is a nice Disney+ clone project, using React + Redux, Firebase google-authentication and database, React Router and styled-components techs.
 
 <br>
 
